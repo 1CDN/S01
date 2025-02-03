@@ -1,0 +1,6 @@
+# Ignore uploaded files
+uploads/
+
+# Ignore specific files like CNAME or index.html
+CNAME
+index.html
